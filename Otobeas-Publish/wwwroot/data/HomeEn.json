@@ -1,0 +1,74 @@
+{
+  "HomeSections": [
+    {
+      "Title": "Book your trip now",
+      "SubTitle": "in less than two minutes",
+      "Type": "var( --e-global-color-black )",
+      "SectionId": 1,
+      "Img": "/Uploads/Company/Img/Home/FirstSection/ff1b0b7f-ad13-41c7-b365-0e2b5d420f30.jpg",
+      "SectionDetails": []
+    },
+    {
+      "Title": "We Provide Best Services For You",
+      "SubTitle": "Otobeas provides you with all land transportation buses in one place. You can see and compare prices and services and choose the company and price that is appropriate for you.",
+      "Type": "BestServices",
+      "SectionId": 3,
+      "Img": null,
+      "SectionDetails": [
+        {
+          "Id": 115,
+          "Title": "Payment Methods",
+          "SubTitle": "Otobeas provides more than one payment method for booking tickets, including cash or credit cards",
+          "Img": null,
+          "SectionDetailsImgs": []
+        },
+        {
+          "Id": 116,
+          "Title": "Regular Gifts",
+          "SubTitle": "Otobeas provides you with gifts on a regular basis, with repeated reservations through us",
+          "Img": null,
+          "SectionDetailsImgs": []
+        },
+        {
+          "Id": 117,
+          "Title": "Support",
+          "SubTitle": "We are honored to provide support to users throughout the day through customer service numbers",
+          "Img": null,
+          "SectionDetailsImgs": []
+        }
+      ]
+    },
+    {
+      "Title": "Find Otobeas Near You With Our App",
+      "SubTitle": "The mobile application is available now. To facilitate the booking process and save time and effort for users.",
+      "Type": "MobileApp",
+      "SectionId": 2,
+      "Img": "/Uploads/Company/Img/Home/SecondSection/7d3cd621-d3e6-494c-95f9-a403769c9b56.jpg",
+      "SectionDetails": [
+        {
+          "Id": 14,
+          "Title": "https://play.google.com/store/search?q=otobeas\u0026c=apps\u0026hl=en",
+          "SubTitle": "https://apps.apple.com/eg/app/otobeas-bus-tickets-app/id6670542913",
+          "Img": null,
+          "SectionDetailsImgs": []
+        }
+      ]
+    },
+    {
+      "Title": null,
+      "SubTitle": null,
+      "Type": "img",
+      "SectionId": 4,
+      "Img": null,
+      "SectionDetails": []
+    },
+    {
+      "Title": null,
+      "SubTitle": null,
+      "Type": null,
+      "SectionId": 5,
+      "Img": null,
+      "SectionDetails": []
+    }
+  ]
+}
