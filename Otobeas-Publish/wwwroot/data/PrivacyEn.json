@@ -1,0 +1,50 @@
+{
+  "Definition": "This policy has been prepared to help you understand the nature of the data we collect from you when you visit our website and how we deal with this personal data.",
+  "PrivacyQuestion": [
+    {
+      "Answer": "\u003Cp\u003EWe have not designed this website to collect your personal data from your computer while you are browsing this website, but only the data provided by you will be used with your knowledge and free will.\r\n\u003C/p\u003E",
+      "Header": "\u003Cp\u003EBrowsing\u003C/p\u003E",
+      "SectionId": 1
+    },
+    {
+      "Answer": "\u003Cp\u003EAny time you visit any website including this one, the hosting server will record your Internet Protocol (IP) address, the date and time of your visit, the type of Internet browser you are using and the URL of any website that referred you to this site.\r\n\u003C/p\u003E",
+      "Header": "\u003Cp\u003EInternet Protocol (IP) Address\u003C/p\u003E",
+      "SectionId": 1
+    },
+    {
+      "Answer": "\u003Cp\u003EOur online surveys enable us to collect specific data such as the data requested from you regarding your view and feelings towards our site. Your responses are of utmost importance and are appreciated as they enable us to improve the level of our site. You have complete freedom and choice in providing data related to your name and other data.\r\n\u003C/p\u003E",
+      "Header": "\u003Cp\u003ENetwork Scans\u003C/p\u003E",
+      "SectionId": 1
+    },
+    {
+      "Answer": "\u003Cp\u003EOur site may contain links to other sites on the Internet, or advertisements from other sites, and we are not responsible for the methods of collecting data by those sites. You can review the privacy policies and content of those sites that are accessed through any link on this site. We may use third-party companies, which have the right to use information about your visits to this site and other websites (except for your name, address, email address or telephone number), in order to provide the necessary services that interest you\r\n\u003C/p\u003E",
+      "Header": "\u003Cp\u003ELinks to other websites\u003C/p\u003E",
+      "SectionId": 1
+    },
+    {
+      "Answer": "\u003Cp\u003EWe will at all times maintain the privacy and confidentiality of all personal data we obtain. This information will not be disclosed except when required by any law or when we believe in good faith that such action is necessary or desirable to comply with the law, or to defend or protect the property rights of this site or its beneficiaries.\r\n\u003C/p\u003E",
+      "Header": "\u003Cp\u003EDisclosure of information\u003C/p\u003E",
+      "SectionId": 1
+    },
+    {
+      "Answer": "\u003Cp\u003EAll data provided by you will be treated as confidential, forms submitted directly on the network require the submission of data that will help us improve our site. The data provided by you will be used to respond to all your inquiries, comments, or requests from this site or any of its affiliated sites.\r\n\u003C/p\u003E",
+      "Header": "\u003Cp\u003EWhen you contact us\u003C/p\u003E",
+      "SectionId": 2
+    },
+    {
+      "Answer": "\u003Cp\u003EWhen we need any data about you, we will ask you to provide it of your own free will, as this information will help us to contact you and implement your requests wherever possible. The data provided by you will never be sold to any third party for the purpose of marketing it for its own benefit without obtaining your prior written consent unless this is done on the basis that it is part of collective data used for statistical and research purposes without including any data that can be used to identify you.\r\n\u003C/p\u003E",
+      "Header": "\u003Cp\u003E\r\n                                                Data required to carry out the transactions requested by you\r\n                                            \u003C/p\u003E",
+      "SectionId": 2
+    },
+    {
+      "Answer": "\u003Cp\u003EWe will not sell, trade, rent, or disclose any information to any third party outside of this site or its affiliated sites, and information will only be disclosed if ordered to do so by any judicial or regulatory authority.\r\n\u003C/p\u003E",
+      "Header": "\u003Cp\u003E\r\n                                                Disclosure of information to any third party\r\n                                            \u003C/p\u003E",
+      "SectionId": 2
+    },
+    {
+      "Answer": "\u003Cp\u003EWe reserve the right to amend the terms and conditions of the Privacy and Confidentiality Policy if necessary and when appropriate. The amendments will be implemented here and you will be notified of them on an ongoing basis.\r\n\u003C/p\u003E",
+      "Header": "\u003Cp\u003E\r\n                                                Amendments to the Privacy and Confidentiality Policy\r\n                                            \u003C/p\u003E",
+      "SectionId": 2
+    }
+  ]
+}
