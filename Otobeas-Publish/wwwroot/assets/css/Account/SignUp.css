@@ -1,0 +1,156 @@
+﻿.hr-text {
+    border: 0;
+    color: #000;
+    height: 1.5em;
+    line-height: 1em;
+    opacity: .8;
+    outline: 0;
+    position: relative;
+    text-align: center;
+}
+
+    .hr-text:before {
+        background: linear-gradient(90deg, transparent, #000, transparent);
+        content: "";
+        height: 1px;
+        left: 0;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+    }
+
+    .hr-text:after {
+        background-color: rgb(235, 240, 242);
+        color: #000;
+        content: attr(data-content);
+        display: inline-block;
+        line-height: 1.5em;
+        padding: 0 1em;
+        position: relative;
+        border: 1px solid;
+        border-radius: 50%;
+    }
+
+form {
+    width: 50%;
+}
+
+.form-control {
+    padding: 16px 19px !important;
+    height: 54px !important;
+    margin-bottom: 20px !important;
+    font-size: 16px !important;
+}
+
+label {
+    color: black !important;
+}
+
+@media only screen and (max-width: 600px) {
+    form {
+        width: 100%;
+    }
+}
+
+input[type=checkbox]:not(old) + label > span {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 15px;
+    margin-bottom: 3px;
+    border: 1px solid black;
+    background: rgb(255,255,255);
+    vertical-align: bottom;
+}
+
+input[type=checkbox]:not(old):checked + label > span:before {
+    font-family: FontAwesome;
+    content: "\2713";
+    display: block;
+    color: var(--e-global-color-primary);
+    font-size: 11px;
+    line-height: 1.2;
+    text-align: center;
+    font-weight: bold;
+}
+
+.agree-term {
+    display: none;
+}
+
+#google-signin-btn {
+    background-color: #dd4b39;
+}
+
+#fb-signin-btn {
+    background-color: #0866ff;
+}
+
+    #google-signin-btn:hover,
+    #fb-signin-btn:hover,
+    #Save:hover {
+        background-color: black !important;
+    }
+
+/* ===== Select2 Custom Styling ===== */
+
+.select2-container .select2-selection--single {
+    height: 54px;
+}
+
+.input-group-text {
+    padding: 0px !important;
+    border: 0px !important;
+    background-color: transparent !important;
+    display: inline-block !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #495057;
+}
+
+html[lang="ar"] .select2-container--default .select2-selection--single {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border: 1px solid #ced4da;
+}
+
+html[lang="ar"] .input-group > .custom-select:not(:first-child),
+html[lang="ar"] .input-group > .form-control:not(:first-child) {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: .25rem;
+    border-bottom-left-radius: .25rem;
+}
+
+html:not([lang="ar"]) .select2-container--default .select2-selection--single {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border: 1px solid #ced4da;
+}
+
+html:not([lang="ar"]) .input-group > .custom-select:not(:first-child),
+html:not([lang="ar"]) .input-group > .form-control:not(:first-child) {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: .25rem;
+    border-bottom-right-radius: .25rem;
+}
+
+/* Select2 dropdown fixes */
+
+.select2-container--default.select2-container--open .select2-dropdown {
+    right: 0 !important;
+    left: auto !important;
+    min-width: 200px;
+    width: auto !important;
+}
+
+.select2-container--default .select2-dropdown {
+    max-width: 100% !important;
+    width: auto !important;
+}
+
+.select2-container--open {
+    left: auto !important;
+}
