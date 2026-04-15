@@ -1,0 +1,55 @@
+﻿.hr-text {
+    border: 0;
+    color: #000;
+    height: 1.5em;
+    line-height: 1em;
+    opacity: .8;
+    outline: 0;
+    position: relative;
+    text-align: center;
+}
+
+    .hr-text:before {
+        background: linear-gradient(90deg, transparent, #000, transparent);
+        content: "";
+        height: 1px;
+        left: 0;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+    }
+
+    .hr-text:after {
+        background-color: rgb(235, 240, 242);
+        color: #000;
+        content: attr(data-content);
+        display: inline-block;
+        line-height: 1.5em;
+        padding: 0 1em;
+        position: relative;
+        border: 1px solid;
+        border-radius: 50%;
+    }
+
+form {
+    width: 50%;
+}
+
+
+@media only screen and (max-width: 600px) {
+    form {
+        width: 100%;
+    }
+}
+
+#google-signin-btn {
+    background-color: #dd4b39;
+}
+
+#fb-signin-btn {
+    background-color: #0866ff;
+}
+
+    #google-signin-btn:hover, #fb-signin-btn:hover, #Save:hover {
+        background-color: black !important
+    }
